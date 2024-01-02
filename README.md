@@ -51,7 +51,8 @@ RegisterNumber:212223040029
 
 
 ## Timing diagram: ![image](https://github.com/danushreddy7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149035740/06179159-20f3-4250-9de1-71e27c27ed1c)
-![image](https://github.com/danushreddy7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149035740/4ae3818d-4dc3-42d8-a3cd-08134d05c775)
+![image](https://github.com/danushreddy7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149035740/c41f339e-9082-434a-a790-40bc05646f89)
+
 
 
 ## Result:
